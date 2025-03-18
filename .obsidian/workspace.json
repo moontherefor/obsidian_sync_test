@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "7b3d566e8360406b",
+    "type": "split",
+    "children": [
+      {
+        "id": "66ae8df721570938",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdd6b4ecd58fb866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "108課程/１０８年度高級中等以下學校及幼兒園教師資格考試 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "１０８年度高級中等以下學校及幼兒園教師資格考試 1"
+            }
+          },
+          {
+            "id": "27551c4d200a7547",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名/未命名 3/未命名 2/未命名 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "１０８年度高級中等以下學校及幼兒園教師資格考試 1"
+            }
+          },
+          {
+            "id": "df00566f7be5a72b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名 1"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "677f2426d8f589ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "0149c3a8047e205d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd124bc7c723b915",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "03a07a65d87d8b5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "eaa3fa38947fc062",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a6ad71bb9c6f6591",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f25831c55e38fed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2011bd6f1b49370e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "未命名 1 的反向連結"
+            }
+          },
+          {
+            "id": "322f71ddb82acd5a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "未命名 1 的對外連結"
+            }
+          },
+          {
+            "id": "163d7967f27348ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ea754397c9114960",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5c4dd8db5ce473a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "未命名 1 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "df00566f7be5a72b",
+  "lastOpenFiles": [
+    "未命名.md",
+    "未命名 1.md",
+    "未命名/未命名 3/未命名 2/未命名 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1.md",
+    "未命名 2.md",
+    "特殊教育法.md",
+    "歡迎.md",
+    "未命名 3.md",
+    "未命名/未命名 3/未命名 2/未命名 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1-第2大題第4題.md",
+    "未命名/未命名 3/未命名 2/未命名 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1-第2大題第3題.md",
+    "未命名/未命名 3/未命名 2/未命名 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1-第2大題第2題.md",
+    "未命名/未命名 3/未命名 2/未命名 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1-第2大題第1題.md",
+    "未命名/未命名 3/未命名 2/未命名 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1-第一大題第30題.md",
+    "未命名/未命名 3/未命名 2/未命名 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1-第一大題第29題.md",
+    "未命名/未命名 3/未命名 2/未命名 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1-第一大題第28題.md",
+    "未命名/未命名 3/未命名 2/未命名 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1-第一大題第27題.md",
+    "未命名/未命名 3/未命名 2/未命名 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1-第一大題第26題.md",
+    "未命名/未命名 3/未命名 2/未命名 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1-第一大題第25題.md",
+    "未命名/未命名 3/未命名 2/未命名 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1-第一大題第24題.md",
+    "未命名/未命名 3/未命名 2/未命名 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1-第一大題第23題.md",
+    "未命名/未命名 3/未命名 2/未命名 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1-第一大題第22題.md",
+    "未命名/未命名 3/未命名 2/未命名 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1-第一大題第21題.md",
+    "未命名/未命名 3/未命名 2/未命名 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1-第一大題第20題.md",
+    "未命名/未命名 3/未命名 2/未命名 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1-第一大題第19題.md",
+    "未命名/未命名 3/未命名 2/未命名 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1-第一大題第18題.md",
+    "未命名/未命名 3/未命名 2/未命名 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1-第一大題第17題.md",
+    "未命名/未命名 3/未命名 2/未命名 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1-第一大題第16題.md",
+    "未命名/未命名 3/未命名 2/未命名 1/１０８年度高級中等以下學校及幼兒園教師資格考試 1",
+    "108課程-4-1",
+    "108課程-3-1",
+    "108課程-2-2",
+    "108課程-2-1",
+    "未命名/未命名 3",
+    "未命名/未命名 3/未命名 2",
+    "未命名/未命名 3/未命名 2/未命名 1",
+    "未命名",
+    "未命名/未命名 3/未命名 2/108課程"
+  ]
+}

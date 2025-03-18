@@ -1,0 +1,10 @@
+{
+  "sample-plugin:process-text-to-uppercase": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ]
+}
